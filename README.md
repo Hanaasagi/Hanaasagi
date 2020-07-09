@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Hanaasagi.
+
+### Statistics
+
+| 🌏 Languages | 💻 Coding Activity |
+| :---------- | :------ |
+| <img src="https://wakatime.com/share/@560ae99c-d5a5-4aa8-986a-c36fdd88ada3/5ccc94ed-3d86-41e3-9a03-37ae486b2780.svg" alt="Recently used languages" height="260px" /> | <img src="https://wakatime.com/share/@560ae99c-d5a5-4aa8-986a-c36fdd88ada3/0b5add95-ebe0-454c-9998-af0a47621049.svg" alt="My coding activity" height="260px" /> |
+
 <!--
 **Hanaasagi/Hanaasagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
