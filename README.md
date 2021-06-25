@@ -1,8 +1,10 @@
-### :pirate_flag: Ahoy!  ![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Hanaasagi/Hanaasagi) 
+<h1 align='center'>:pirate_flag: Ahoy! I'm Hanaasagi. </h1>
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Hanaasagi/Hanaasagi) -->
+
+<h3 align='center'> この壁の中に未来はねえんだよ… </h3>
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&count_private=true&show_icons=true&theme=dracula&include_all_commits=true">
-
-I'm Hanaasagi.
 
 -   :hammer_and_pick: Python / Rust / ...
 -   :computer: MacOS / Debian / Oh My Zsh / Vim / Firefox Nightly
