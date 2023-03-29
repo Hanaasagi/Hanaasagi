@@ -12,6 +12,7 @@
 - :key: GPG key: `A52426A3B59FF8EC`
 
 <!--START_SECTION:lapras-card-->
+<a href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=2.85&i=2.78&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
 <!--END_SECTION:lapras-card-->
 
 ### Contributed to
