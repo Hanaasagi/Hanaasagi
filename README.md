@@ -6,10 +6,13 @@
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&count_private=true&show_icons=true&theme=dracula&include_all_commits=true">
 
--   :hammer_and_pick: Python / Rust / ...
--   :computer: MacOS / Debian / Oh My Zsh / Vim / Firefox Nightly
--   :pencil2: English / 中文 / 日本語(勉強中)
--   :key: GPG key: `A52426A3B59FF8EC`
+- :hammer_and_pick: Python / Rust / TypeScript ...
+- :computer: MacOS / Debian / Oh My Zsh / Vim / Firefox Nightly
+- :pencil2: English(preparing IELTS) / 中文 / 日本語(N1)
+- :key: GPG key: `A52426A3B59FF8EC`
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ### Contributed to
 
@@ -23,7 +26,6 @@
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3AHanaasagi)
 
 And more peko :carrot: :carrot: :carrot:
-
 
 ### MEME Time
 
