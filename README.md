@@ -11,11 +11,14 @@
 - :pencil2: English(preparing IELTS) / 中文 / 日本語(N1)
 - :key: GPG key: `A52426A3B59FF8EC`
 
-<!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=2.85&i=2.78&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
-<!--END_SECTION:lapras-card-->
+<br>
+<br>
 
 ### Contributed to
+
+<!--START_SECTION:lapras-card-->
+<a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=2.85&i=2.78&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="35%" align="right" ></a>
+<!--END_SECTION:lapras-card-->
 
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3AHanaasagi)
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3AHanaasagi)
@@ -27,6 +30,8 @@
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3AHanaasagi)
 
 And more peko :carrot: :carrot: :carrot:
+
+
 
 ### MEME Time
 
