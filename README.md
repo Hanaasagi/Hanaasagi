@@ -57,4 +57,5 @@ JSON         51 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [aya と eBPF を使用してソケット通信を高速化する練習](https://zenn.dev/hanaasagi/articles/188709e5c35fc5)
 <!-- BLOG-POST-LIST:END -->
