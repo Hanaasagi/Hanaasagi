@@ -65,4 +65,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
+- 🥥 [Differences between read and read_buf in Tokio](https://blog.dreamfever.me/2023/04/30/differences-between-read-and-read_buf-in-tokio/) 
+
+- 🍈 [怎么又是你！ too many open files](https://blog.dreamfever.me/2023/04/24/oh-my-god-too-many-open-files/) 
 <!-- BLOG-POST-LIST-ZH:END -->
