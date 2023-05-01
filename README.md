@@ -17,7 +17,9 @@
 ### Contributed to
 
 <!--START_SECTION:lapras-card-->
+
 <a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.69&b=2.85&i=2.85&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="35%" align="right" ></a>
+
 <!--END_SECTION:lapras-card-->
 
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3AHanaasagi)
@@ -30,9 +32,6 @@
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3AHanaasagi)
 
 And more peko :carrot: :carrot: :carrot:
-
-
-
 
 ![](https://github.com/Hanaasagi/Hanaasagi/blob/3ee2fac7685d9f15c1f13f28573c12ebceae21c2/images/review-please.jpg)
 
@@ -53,9 +52,14 @@ TOML         2 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <!--END_SECTION:waka-->
 
-
 ### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Tokioのreadとread_bufの違い](https://zenn.dev/hanaasagi/articles/4735bc6fa86042)
-- [aya と eBPF を使用してソケット通信を高速化する練習](https://zenn.dev/hanaasagi/articles/188709e5c35fc5)
-<!-- BLOG-POST-LIST:END -->
+
+Japanese:
+
+<!-- BLOG-POST-LIST-JP:START -->
+<!-- BLOG-POST-LIST-JP:END -->
+
+Chinese:
+
+<!-- BLOG-POST-LIST-ZH:START -->
+<!-- BLOG-POST-LIST-ZH:END -->

@@ -16,4 +16,16 @@ jobs:
       - name: Pull in zenn.dev posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          max_post_count: 3
+          comment_tag_name: "BLOG-POST-LIST-JP"
           feed_list: "https://zenn.dev/hanaasagi/feed"
+          rand_seed: "seed1"
+          template: "$newline- $randomEmoji(📝,💫,🌟,🌠,✨,🚀,🍈,🍏,🍒,🍑,🥝,🍉,🍇,🥥,🥑,🎊,🎉,🥳) [$title]($url) $newline"
+      - name: Pull in dreamfever.me posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 2
+          comment_tag_name: "BLOG-POST-LIST-ZH"
+          feed_list: "https://blog.dreamfever.me/rss/"
+          rand_seed: "seed2"
+          template: "$newline- $randomEmoji(📝,💫,🌟,🌠,✨,🚀,🍈,🍏,🍒,🍑,🥝,🍉,🍇,🥥,🥑,🎊,🎉,🥳) [$title]($url) $newline"
