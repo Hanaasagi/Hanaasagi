@@ -33,10 +33,10 @@ And more peko :carrot: :carrot: :carrot:
 
 
 
-### MEME Time
 
 ![](https://github.com/Hanaasagi/Hanaasagi/blob/3ee2fac7685d9f15c1f13f28573c12ebceae21c2/images/review-please.jpg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hanaasagi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <br>
