@@ -57,5 +57,6 @@ Vim Script   39 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tokioのreadとread_bufの違い](https://zenn.dev/hanaasagi/articles/4735bc6fa86042)
 - [aya と eBPF を使用してソケット通信を高速化する練習](https://zenn.dev/hanaasagi/articles/188709e5c35fc5)
 <!-- BLOG-POST-LIST:END -->
