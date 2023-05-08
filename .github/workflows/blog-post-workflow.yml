@@ -20,7 +20,7 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST-JP"
           feed_list: "https://zenn.dev/hanaasagi/feed"
           rand_seed: "seed1"
-          template: "$newline- $randomEmoji(📝,💫,🌟,🌠,✨,🚀,🍈,🍏,🍒,🍑,🥝,🍉,🍇,🥥,🥑,🎊,🎉,🥳) [$title]($url) $newline"
+          template: "$newline- $randomEmoji(🍈,🍏,🍒,🍑,🥝,🍉,🍇,🥥,🥑,🥭,🍌,🍓,🍍) [$title]($url) $newline"
       - name: Pull in dreamfever.me posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -28,4 +28,4 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST-ZH"
           feed_list: "https://blog.dreamfever.me/rss/"
           rand_seed: "seed2"
-          template: "$newline- $randomEmoji(📝,💫,🌟,🌠,✨,🚀,🍈,🍏,🍒,🍑,🥝,🍉,🍇,🥥,🥑,🎊,🎉,🥳) [$title]($url) $newline"
+          template: "$newline- $randomEmoji(📝,💫,🌟,🌠,✨,🚀,🎊,🎉,🥳,🎁,🎈,📔,🎨) [$title]($url) $newline"
