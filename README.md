@@ -65,7 +65,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🥥 [理解 Linux 中的 splice&lpar;2&rpar; - 补充篇](https://blog.dreamfever.me/2023/05/06/li-jie-linux-zhong-de-splice-2-bu-chong-pian/) 
+- 🎁 [理解 Linux 中的 splice&lpar;2&rpar; - 补充篇](https://blog.dreamfever.me/2023/05/06/li-jie-linux-zhong-de-splice-2-bu-chong-pian/) 
 
-- 🍈 [理解 Linux 中的 splice&lpar;2&rpar;](https://blog.dreamfever.me/2023/05/04/li-jie-linux-zhong-de-splice-2/) 
+- ✨ [理解 Linux 中的 splice&lpar;2&rpar;](https://blog.dreamfever.me/2023/05/04/li-jie-linux-zhong-de-splice-2/) 
 <!-- BLOG-POST-LIST-ZH:END -->
