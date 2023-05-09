@@ -55,11 +55,11 @@ Markdown          59 mins         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🍈 [Linux fontconfigの設定について](https://zenn.dev/hanaasagi/articles/9e428f0c9594a6) 
+- 🥝 [Linux fontconfigの設定について](https://zenn.dev/hanaasagi/articles/9e428f0c9594a6) 
 
-- 🎉 [Tokioのreadとread_bufの違い](https://zenn.dev/hanaasagi/articles/4735bc6fa86042) 
+- 🍓 [Tokioのreadとread_bufの違い](https://zenn.dev/hanaasagi/articles/4735bc6fa86042) 
 
-- 🥥 [aya と eBPF を使用してソケット通信を高速化する練習](https://zenn.dev/hanaasagi/articles/188709e5c35fc5) 
+- 🥭 [aya と eBPF を使用してソケット通信を高速化する練習](https://zenn.dev/hanaasagi/articles/188709e5c35fc5) 
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
