@@ -17,9 +17,7 @@
 ### Contributed to
 
 <!--START_SECTION:lapras-card-->
-
-<a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.69&b=2.85&i=2.85&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="35%" align="right" ></a>
-
+<a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img align="right" src="https://lapras-card-generator.vercel.app/api/svg?e=3.67&b=2.85&i=2.82&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
 <!--END_SECTION:lapras-card-->
 
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3AHanaasagi)
