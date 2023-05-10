@@ -55,11 +55,11 @@ XML               1 hr 6 mins     🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Linux fontconfigの設定について](https://zenn.dev/hanaasagi/articles/9e428f0c9594a6) 
+- 🥝 [Rust グローバル変数をテストで隔離する方法](https://zenn.dev/hanaasagi/articles/f6780c5276da83) 
 
-- 🍓 [Tokioのreadとread_bufの違い](https://zenn.dev/hanaasagi/articles/4735bc6fa86042) 
+- 🍓 [Linux fontconfigの設定について](https://zenn.dev/hanaasagi/articles/9e428f0c9594a6) 
 
-- 🥭 [aya と eBPF を使用してソケット通信を高速化する練習](https://zenn.dev/hanaasagi/articles/188709e5c35fc5) 
+- 🥭 [Tokioのreadとread_bufの違い](https://zenn.dev/hanaasagi/articles/4735bc6fa86042) 
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
