@@ -78,3 +78,6 @@ Chinese:
 
 - ✨ [理解 Linux 中的 splice&lpar;2&rpar;](https://blog.dreamfever.me/2023/05/04/li-jie-linux-zhong-de-splice-2/) 
 <!-- BLOG-POST-LIST-ZH:END -->
+
+
+<img  src="https://netease-music-readme-git-main-hanaasagi.vercel.app/api/record" width="10%" >
