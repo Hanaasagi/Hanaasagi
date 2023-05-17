@@ -64,11 +64,11 @@ Python          2 hrs 11 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Rust グローバル変数をテストで隔離する方法](https://zenn.dev/hanaasagi/articles/f6780c5276da83) 
+- 🥝 [cgroup を使用してプロセスのリソース使用量を制限する](https://zenn.dev/hanaasagi/articles/ea66e26a5bb90e) 
 
-- 🍓 [Linux fontconfigの設定について](https://zenn.dev/hanaasagi/articles/9e428f0c9594a6) 
+- 🍓 [Rust グローバル変数をテストで隔離する方法](https://zenn.dev/hanaasagi/articles/f6780c5276da83) 
 
-- 🥭 [Tokioのreadとread_bufの違い](https://zenn.dev/hanaasagi/articles/4735bc6fa86042) 
+- 🥭 [Linux fontconfigの設定について](https://zenn.dev/hanaasagi/articles/9e428f0c9594a6) 
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
