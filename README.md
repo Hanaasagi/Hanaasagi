@@ -61,6 +61,7 @@ tmux            3 hrs 3 mins    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### {Blog posts}
 
+
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
@@ -71,6 +72,9 @@ Japanese:
 - 🥭 [Linux fontconfigの設定について](https://zenn.dev/hanaasagi/articles/9e428f0c9594a6) 
 <!-- BLOG-POST-LIST-JP:END -->
 
+
+<img align="right"  src="https://netease-music-readme-git-main-hanaasagi.vercel.app/api/record" width="10%" >
+
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
@@ -80,4 +84,3 @@ Chinese:
 <!-- BLOG-POST-LIST-ZH:END -->
 
 
-<img  src="https://netease-music-readme-git-main-hanaasagi.vercel.app/api/record" width="10%" >
