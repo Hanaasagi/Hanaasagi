@@ -73,7 +73,7 @@ Japanese:
 <!-- BLOG-POST-LIST-JP:END -->
 
 
-<img align="right"  src="https://netease-music-readme-git-main-hanaasagi.vercel.app/api/record" width="10%" >
+<img align="right" src="https://netease-music-readme-hanaasagi.vercel.app/api/record" width="10%" >
 
 Chinese:
 
