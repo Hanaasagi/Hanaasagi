@@ -11,7 +11,7 @@
 - :newspaper_roll: Python / Rust / TypeScript / Lua ...
 - :computer: ~~MacOS~~ / ~~Debian~~ / Arch Linux
 - :battery: Oh My Zsh / Nvim / Tmux / Firefox Nightly
-- :pencil2: English(preparing IELTS) / 中文 / 日本語(N1)
+- :pencil2: English(preparing IELTS) / ~中文~ / 日本語(N1)
 - :key: GPG key: `A52426A3B59FF8EC`
 - 🦔 夜好性
 
@@ -43,6 +43,8 @@
 And more peko :carrot: :carrot: :carrot:
 </div>
 
+
+
 ![](https://github.com/Hanaasagi/Hanaasagi/blob/3ee2fac7685d9f15c1f13f28573c12ebceae21c2/images/review-please.jpg)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Hanaasagi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
@@ -61,6 +63,7 @@ HTML         1 hr 42 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### {Blog posts}
 
+<img align="right" src="https://netease-music-readme-hanaasagi.vercel.app/api/record" width="15%" >
 
 Japanese:
 
@@ -72,8 +75,6 @@ Japanese:
 - 🥭 [Linux fontconfigの設定について](https://zenn.dev/hanaasagi/articles/9e428f0c9594a6) 
 <!-- BLOG-POST-LIST-JP:END -->
 
-
-<img align="right" src="https://netease-music-readme-hanaasagi.vercel.app/api/record" width="10%" >
 
 Chinese:
 
