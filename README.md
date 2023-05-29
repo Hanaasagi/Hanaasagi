@@ -68,11 +68,11 @@ Other       24 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Zig で prettytable を書いてみた](https://zenn.dev/hanaasagi/articles/b44d847cf4ad09) 
+- 🥝 [Zig で環境変数を型安全に管理](https://zenn.dev/hanaasagi/articles/4bfefd6ec370ef) 
 
-- 🍓 [cgroup を使用してプロセスのリソース使用量を制限する](https://zenn.dev/hanaasagi/articles/ea66e26a5bb90e) 
+- 🍓 [Zig で prettytable を書いてみた](https://zenn.dev/hanaasagi/articles/b44d847cf4ad09) 
 
-- 🥭 [Rust グローバル変数をテストで隔離する方法](https://zenn.dev/hanaasagi/articles/f6780c5276da83) 
+- 🥭 [cgroup を使用してプロセスのリソース使用量を制限する](https://zenn.dev/hanaasagi/articles/ea66e26a5bb90e) 
 <!-- BLOG-POST-LIST-JP:END -->
 
 
