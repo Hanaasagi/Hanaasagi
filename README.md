@@ -12,6 +12,7 @@
 - :computer: ~~MacOS~~ / ~~Debian~~ / Arch Linux
 - :battery: Oh My Zsh / Nvim / Tmux / Firefox Nightly
 - :pencil2: English(preparing IELTS) / ~中文~ / 日本語(N1)
+- :birthday: Shanghai lockdown survivor
 - :key: GPG key: `A52426A3B59FF8EC`
 - 🦔 夜好性
 
