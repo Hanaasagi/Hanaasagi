@@ -6,7 +6,7 @@
 
 
 ### /About me/
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&count_private=true&show_icons=true&theme=dracula&include_all_commits=true">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&show_icons=true&theme=dracula">
 
 - :newspaper_roll: Python / Rust / TypeScript / Lua ...
 - :computer: ~~MacOS~~ / ~~Debian~~ / Arch Linux
