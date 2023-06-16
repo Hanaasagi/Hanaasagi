@@ -69,11 +69,11 @@ YAML               1 hr 5 mins     🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Zig で環境変数を型安全に管理](https://zenn.dev/hanaasagi/articles/4bfefd6ec370ef) 
+- 🥝 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b) 
 
-- 🍓 [Zig で prettytable を書いてみた](https://zenn.dev/hanaasagi/articles/b44d847cf4ad09) 
+- 🍓 [Zig で環境変数を型安全に管理](https://zenn.dev/hanaasagi/articles/4bfefd6ec370ef) 
 
-- 🥭 [cgroup を使用してプロセスのリソース使用量を制限する](https://zenn.dev/hanaasagi/articles/ea66e26a5bb90e) 
+- 🥭 [Zig で prettytable を書いてみた](https://zenn.dev/hanaasagi/articles/b44d847cf4ad09) 
 <!-- BLOG-POST-LIST-JP:END -->
 
 
