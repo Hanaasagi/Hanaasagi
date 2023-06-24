@@ -80,9 +80,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [如何在 README 显示正在听的音乐](https://blog.dreamfever.me/2023/05/20/ru-he-zai-readme-xian-shi-zheng-zai-ting-de-yin-le/) 
+- 🎁 [锁匠的自我修养](https://blog.dreamfever.me/2023/06/23/suo-jiang-de-zi-wo-xiu-yang/) 
 
-- ✨ [理解 Linux 中的 splice&lpar;2&rpar; - 补充篇](https://blog.dreamfever.me/2023/05/06/li-jie-linux-zhong-de-splice-2-bu-chong-pian/) 
+- ✨ [如何在 README 显示正在听的音乐](https://blog.dreamfever.me/2023/05/20/ru-he-zai-readme-xian-shi-zheng-zai-ting-de-yin-le/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 
