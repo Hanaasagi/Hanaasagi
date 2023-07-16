@@ -15,6 +15,7 @@
 - :birthday: Shanghai lockdown survivor
 - :key: GPG key: `A52426A3B59FF8EC`
 - 🦔 夜好性
+- 🕊️ If I haven't responded for a long time, please email me directly.
 
 <br>
 <br>
