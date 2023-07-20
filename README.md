@@ -1,11 +1,11 @@
-<h1 align='center'>:pirate_flag: Ahoy! I'm Hanaasagi. </h1>
+<!-- <h1 align='center'>:pirate_flag: Ahoy! I'm Hanaasagi. </h1> -->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Hanaasagi/Hanaasagi) -->
 
-<h3 align='center'> この壁の中に未来はねえんだよ… </h3>
-
+<!-- <h3 align='center'> この壁の中に未来はねえんだよ… </h3> -->
 
 ### /About me/
+
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&show_icons=true&theme=dracula">
 
 - :newspaper_roll: Python / Rust / TypeScript / Lua ...
@@ -23,7 +23,9 @@
 ### 『Contributed to』
 
 <!--START_SECTION:lapras-card-->
+
 <a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img align="right" src="https://lapras-card-generator.vercel.app/api/svg?e=3.87&b=2.85&i=2.9&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
+
 <!--END_SECTION:lapras-card-->
 
 <div align="left">
@@ -41,11 +43,9 @@
 | [pydocstyle](https://github.com/PyCQA/pydocstyle) | [2019-03-15](https://github.com/PyCQA/pydocstyle/pull/355)   | [2019-08-01](https://github.com/PyCQA/pydocstyle/pull/391)   | [3](https://github.com/PyCQA/pydocstyle/pulls?q=is%3Apr+author%3AHanaasagi)  |
 | [pyflakes](https://github.com/PyCQA/pyflakes)     | [2018-12-31](https://github.com/PyCQA/pyflakes/pull/396)     | [2019-09-04](https://github.com/PyCQA/pyflakes/pull/467)     | [3](https://github.com/PyCQA/pyflakes/pulls?q=is%3Apr+author%3AHanaasagi)    |
 
+<!-- And more peko :carrot: :carrot: :carrot: -->
 
-And more peko :carrot: :carrot: :carrot:
 </div>
-
-
 
 ![](https://github.com/Hanaasagi/Hanaasagi/blob/3ee2fac7685d9f15c1f13f28573c12ebceae21c2/images/review-please.jpg)
 
@@ -70,20 +70,19 @@ Markdown       32 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70) 
 
-- 🍓 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b) 
+- 🥝 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70)
 
-- 🥭 [Zig で環境変数を型安全に管理](https://zenn.dev/hanaasagi/articles/4bfefd6ec370ef) 
+- 🍓 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b)
+
+- 🥭 [Zig で環境変数を型安全に管理](https://zenn.dev/hanaasagi/articles/4bfefd6ec370ef)
 <!-- BLOG-POST-LIST-JP:END -->
-
 
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [锁匠的自我修养](https://blog.dreamfever.me/2023/06/23/suo-jiang-de-zi-wo-xiu-yang/) 
 
-- ✨ [如何在 README 显示正在听的音乐](https://blog.dreamfever.me/2023/05/20/ru-he-zai-readme-xian-shi-zheng-zai-ting-de-yin-le/) 
+- 🎁 [锁匠的自我修养](https://blog.dreamfever.me/2023/06/23/suo-jiang-de-zi-wo-xiu-yang/)
+
+- ✨ [如何在 README 显示正在听的音乐](https://blog.dreamfever.me/2023/05/20/ru-he-zai-readme-xian-shi-zheng-zai-ting-de-yin-le/)
 <!-- BLOG-POST-LIST-ZH:END -->
-
-
