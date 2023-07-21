@@ -68,12 +68,11 @@ Markdown       32 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
+- 🥝 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70) 
 
-- 🥝 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70)
+- 🍓 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b) 
 
-- 🍓 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b)
-
-- 🥭 [Zig で環境変数を型安全に管理](https://zenn.dev/hanaasagi/articles/4bfefd6ec370ef)
+- 🥭 [Zig で環境変数を型安全に管理](https://zenn.dev/hanaasagi/articles/4bfefd6ec370ef) 
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
