@@ -78,8 +78,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
+- 🎁 [锁匠的自我修养](https://blog.dreamfever.me/2023/06/23/suo-jiang-de-zi-wo-xiu-yang/) 
 
-- 🎁 [锁匠的自我修养](https://blog.dreamfever.me/2023/06/23/suo-jiang-de-zi-wo-xiu-yang/)
-
-- ✨ [如何在 README 显示正在听的音乐](https://blog.dreamfever.me/2023/05/20/ru-he-zai-readme-xian-shi-zheng-zai-ting-de-yin-le/)
+- ✨ [如何在 README 显示正在听的音乐](https://blog.dreamfever.me/2023/05/20/ru-he-zai-readme-xian-shi-zheng-zai-ting-de-yin-le/) 
 <!-- BLOG-POST-LIST-ZH:END -->
