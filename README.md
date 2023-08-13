@@ -78,7 +78,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [udev 规则](https://blog.dreamfever.me/2023/08/03/udev-gui-ze/) 
+- 🎁 [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/) 
 
-- ✨ [锁匠的自我修养](https://blog.dreamfever.me/2023/06/23/suo-jiang-de-zi-wo-xiu-yang/) 
+- ✨ [udev 规则](https://blog.dreamfever.me/2023/08/03/udev-gui-ze/) 
 <!-- BLOG-POST-LIST-ZH:END -->
