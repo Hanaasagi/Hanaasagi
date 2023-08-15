@@ -68,11 +68,11 @@ C++          1 hr 33 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70) 
+- 🥝 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d) 
 
-- 🍓 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b) 
+- 🍓 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70) 
 
-- 🥭 [Zig で環境変数を型安全に管理](https://zenn.dev/hanaasagi/articles/4bfefd6ec370ef) 
+- 🥭 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b) 
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
