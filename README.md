@@ -8,13 +8,13 @@
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&show_icons=true&theme=dracula">
 
-- :newspaper_roll: Python / Rust / TypeScript / Lua ...
+- :newspaper_roll: Python / Rust / TypeScript / Lua / Zig ...
 - :computer: ~~MacOS~~ / ~~Debian~~ / Arch Linux
 - :battery: Oh My Zsh / Nvim / Tmux / Firefox Nightly
-- :pencil2: English(preparing IELTS) / ~中文~ / 日本語(N1)
+- :pencil2: English / 日本語
 - :birthday: Shanghai lockdown survivor
 - :key: GPG key: `A52426A3B59FF8EC`
-- 🦔 夜好性
+- :pirate_flag: Vtuber fans
 - 🕊️ If I haven't responded for a long time, please email me directly.
 
 <br>
