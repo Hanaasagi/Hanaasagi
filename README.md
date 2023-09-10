@@ -14,7 +14,7 @@
 - :pencil2: English / 日本語
 - :birthday: Shanghai lockdown survivor
 - :key: GPG key: `A52426A3B59FF8EC`
-- :pirate_flag: Vtuber fans
+- :stars: Vtuber fans, 推し => 🏴‍☠️ 🦍 🦊 ❄️
 - 🕊️ If I haven't responded for a long time, please email me directly.
 
 <br>
@@ -23,7 +23,9 @@
 ### 『Contributed to』
 
 <!--START_SECTION:lapras-card-->
+
 <a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img align="right" src="https://lapras-card-generator.vercel.app/api/svg?e=3.99&b=2.85&i=2.94&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
+
 <!--END_SECTION:lapras-card-->
 
 <div align="left">
@@ -68,17 +70,19 @@ JSON           43 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d) 
 
-- 🍓 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70) 
+- 🥝 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d)
 
-- 🥭 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b) 
+- 🍓 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70)
+
+- 🥭 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b)
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/) 
 
-- ✨ [udev 规则](https://blog.dreamfever.me/2023/08/03/udev-gui-ze/) 
+- 🎁 [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/)
+
+- ✨ [udev 规则](https://blog.dreamfever.me/2023/08/03/udev-gui-ze/)
 <!-- BLOG-POST-LIST-ZH:END -->
