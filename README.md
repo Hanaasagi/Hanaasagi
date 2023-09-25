@@ -78,7 +78,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [简单聊一下开源](https://blog.dreamfever.me/2023/09/12/jian-dan-liao-yi-xia-kai-yuan/) 
+- 🎁 [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/) 
 
-- ✨ [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/) 
+- ✨ [udev 规则](https://blog.dreamfever.me/2023/08/03/udev-gui-ze/) 
 <!-- BLOG-POST-LIST-ZH:END -->
