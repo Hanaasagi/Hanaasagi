@@ -25,13 +25,16 @@
 ### 『Contributed to』
 
 <!--START_SECTION:lapras-card-->
+
 <a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img align="right" src="https://lapras-card-generator.vercel.app/api/svg?e=4.08&b=2.85&i=2.99&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
+
 <!--END_SECTION:lapras-card-->
 
 <div align="left">
 
 | REPO                                              | FIRSTDATE                                                    | LASTEDATE                                                    | PRCOUNT                                                                      |
 | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| [bun](https://github.com/oven-sh/bun)             | [2023-06-26](https://github.com/oven-sh/bun/pull/3402)       | [2023-10-22](https://github.com/oven-sh/bun/pull/6651)       | [65](https://github.com/oven-sh/bun/pulls?q=is%3Apr+author%3AHanaasagi)      |
 | [typeshed](https://github.com/python/typeshed)    | [2018-06-04](https://github.com/python/typeshed/pull/2191)   | [2019-10-23](https://github.com/python/typeshed/pull/3401)   | [14](https://github.com/python/typeshed/pulls?q=is%3Apr+author%3AHanaasagi)  |
 | [sea](https://github.com/shanbay/sea)             | [2017-08-08](https://github.com/shanbay/sea/pull/19)         | [2017-12-07](https://github.com/shanbay/sea/pull/91)         | [14](https://github.com/shanbay/sea/pulls?q=is%3Apr+author%3AHanaasagi)      |
 | [aiohttp](https://github.com/aio-libs/aiohttp)    | [2019-03-18](https://github.com/aio-libs/aiohttp/pull/3655)  | [2021-11-02](https://github.com/aio-libs/aiohttp/pull/6204)  | [10](https://github.com/aio-libs/aiohttp/pulls?q=is%3Apr+author%3AHanaasagi) |
@@ -84,17 +87,19 @@ C            1 hr 50 mins    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d) 
 
-- 🍓 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70) 
+- 🥝 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d)
 
-- 🥭 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b) 
+- 🍓 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70)
+
+- 🥭 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b)
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [最後](https://blog.dreamfever.me/2023/10/19/zui-hou/) 
 
-- ✨ [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/) 
+- 🎁 [最後](https://blog.dreamfever.me/2023/10/19/zui-hou/)
+
+- ✨ [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/)
 <!-- BLOG-POST-LIST-ZH:END -->
