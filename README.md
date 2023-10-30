@@ -95,8 +95,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
+- 🎁 [最後](https://blog.dreamfever.me/2023/10/19/zui-hou/) 
 
-- 🎁 [最後](https://blog.dreamfever.me/2023/10/19/zui-hou/)
-
-- ✨ [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/)
+- ✨ [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/) 
 <!-- BLOG-POST-LIST-ZH:END -->
