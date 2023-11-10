@@ -95,7 +95,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [最後](https://blog.dreamfever.me/2023/10/19/zui-hou/) 
+- 🎁 [新人也能懂的调试方法 02 - ptrace 应用](http://blog.dreamfever.me/posts/2023-11-03-how-to-debug-02-ptrace/) 
 
-- ✨ [Zig 使用下来的一些感想](https://blog.dreamfever.me/2023/08/12/zig-shi-yong-xia-lai-de-yi-xie-gan-xiang/) 
+- ✨ [新人也能懂的调试方法 01 - 通过 syscall 进行定位](http://blog.dreamfever.me/posts/2023-10-24-how-to-debug-01-syscall/) 
 <!-- BLOG-POST-LIST-ZH:END -->
