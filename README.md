@@ -4,6 +4,8 @@
 
 <!-- <h3 align='center'> この壁の中に未来はねえんだよ… </h3> -->
 
+<h1 align='center'> Available for hire (Shanghai/remote) </h1>
+
 ### /About me/
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&show_icons=true&theme=dracula">
@@ -16,7 +18,6 @@
 - :key: GPG key: `A52426A3B59FF8EC`
 - :stars: Vtuber fans, 推し => 🏴‍☠️ 🦍 🦊 ❄️
 - :feet: OSS contributor. Currently, I spend most of my spare time on [bun](https://github.com/oven-sh/bun).
-- :satellite: Freelancer, **looking for job now**.
 - 🕊️ If I haven't responded for a long time, please email me directly.
 
 <br>
