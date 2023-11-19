@@ -102,7 +102,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [新人也能懂的调试方法 02 - ptrace 应用](http://blog.dreamfever.me/posts/2023-11-03-how-to-debug-02-ptrace/) 
+- 🎁 [简单测试一下分支判断中的 switch/bitset/const array](http://blog.dreamfever.me/posts/2023-11-18-small-perf-switch-vs-bitset-vs-array/) 
 
-- ✨ [新人也能懂的调试方法 01 - 通过 syscall 进行定位](http://blog.dreamfever.me/posts/2023-10-24-how-to-debug-01-syscall/) 
+- ✨ [新人也能懂的调试方法 02 - ptrace 应用](http://blog.dreamfever.me/posts/2023-11-03-how-to-debug-02-ptrace/) 
 <!-- BLOG-POST-LIST-ZH:END -->
