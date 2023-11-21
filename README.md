@@ -17,7 +17,7 @@
 <!-- - :birthday: Shanghai lockdown survivor -->
 - :key: GPG key: `A52426A3B59FF8EC`
 - :stars: Vtuber fans, 推し => 🏴‍☠️ 🦍 🦊 ❄️
-- :feet: OSS contributor. Currently, I spend most of my spare time on [bun](https://github.com/oven-sh/bun).
+- :feet: OSS contributor. I wrote some Zig library [here](https://github.com/dying-will-bullet)
 - 🕊️ If I haven't responded for a long time, please email me directly.
 
 <br>
