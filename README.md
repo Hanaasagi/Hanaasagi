@@ -102,7 +102,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [新人也能懂的调试方法 03 - 使用 pstack](http://blog.dreamfever.me/posts/2023-11-25-how-to-debug-03-pstack/) 
+- 🎁 [新人也能懂的调试方法 05 - 实战 SIGSEGV](http://blog.dreamfever.me/posts/2023-12-03-how-to-debug-05-sigsegv/) 
 
-- ✨ [简单测试一下分支判断中的 switch/bitset/const array](http://blog.dreamfever.me/posts/2023-11-18-small-perf-switch-vs-bitset-vs-array/) 
+- ✨ [新人也能懂的调试方法 04 - LLDB 基本使用](http://blog.dreamfever.me/posts/2023-12-03-how-to-debug-04-lldb/) 
 <!-- BLOG-POST-LIST-ZH:END -->
