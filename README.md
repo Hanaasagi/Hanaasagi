@@ -102,7 +102,7 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [新人也能懂的调试方法 05 - 实战 SIGSEGV](http://blog.dreamfever.me/posts/2023-12-03-how-to-debug-05-sigsegv/) 
+- 🎁 [为 Zig 项目构建在线文档](http://blog.dreamfever.me/posts/2023-12-05-generate-docs-in-zig-project/) 
 
-- ✨ [新人也能懂的调试方法 04 - LLDB 基本使用](http://blog.dreamfever.me/posts/2023-12-03-how-to-debug-04-lldb/) 
+- ✨ [新人也能懂的调试方法 05 - 实战 SIGSEGV](http://blog.dreamfever.me/posts/2023-12-03-how-to-debug-05-sigsegv/) 
 <!-- BLOG-POST-LIST-ZH:END -->
