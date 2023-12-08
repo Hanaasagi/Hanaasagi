@@ -92,11 +92,11 @@ Other        1 hr 20 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d) 
+- 🥝 [Zig HashMap: カスタムハッシュ関数の利用](https://zenn.dev/hanaasagi/articles/ab16bbc7e3fd87) 
 
-- 🍓 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70) 
+- 🍓 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d) 
 
-- 🥭 [kcov を使って Zig プログラムのカバレッジを測定する](https://zenn.dev/hanaasagi/articles/ecb0fba9d0923b) 
+- 🥭 [Zig プロジェクトで C 言語の依存関係を使用する](https://zenn.dev/hanaasagi/articles/a5cf50cad22b70) 
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
