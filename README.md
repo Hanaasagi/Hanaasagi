@@ -10,7 +10,7 @@
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&show_icons=true&theme=dracula">
 
-- :newspaper_roll: Python / Rust / TypeScript / Lua / Zig ...
+- :newspaper_roll: Python / Rust / TypeScript / Go / Lua / Zig ...
 - :computer: ~~MacOS~~ / ~~Debian~~ / Arch Linux
 - :battery: Oh My Zsh / Nvim / Tmux / Firefox Nightly
 - :pencil2: English / 日本語 / 中文
