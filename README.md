@@ -4,7 +4,7 @@
 
 <!-- <h3 align='center'> この壁の中に未来はねえんだよ… </h3> -->
 
-<h1 align='center'> Available for hire (Shanghai/remote) </h1>
+<!-- <h1 align='center'> Available for hire (Shanghai/remote) </h1> -->
 
 ### /About me/
 
@@ -26,7 +26,9 @@
 ### 『Contributed to』
 
 <!--START_SECTION:lapras-card-->
+
 <a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img align="right" src="https://lapras-card-generator.vercel.app/api/svg?e=4.06&b=2.85&i=3.01&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
+
 <!--END_SECTION:lapras-card-->
 
 <div align="left">
@@ -92,17 +94,19 @@ C            1 hr 45 mins    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
-- 🥝 [Zig: docの生成とGitHub Pagesへのデプロイ](https://zenn.dev/hanaasagi/articles/13e82e6bf56d54) 
 
-- 🍓 [Zig HashMap: カスタムハッシュ関数の利用](https://zenn.dev/hanaasagi/articles/ab16bbc7e3fd87) 
+- 🥝 [Zig: docの生成とGitHub Pagesへのデプロイ](https://zenn.dev/hanaasagi/articles/13e82e6bf56d54)
 
-- 🥭 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d) 
+- 🍓 [Zig HashMap: カスタムハッシュ関数の利用](https://zenn.dev/hanaasagi/articles/ab16bbc7e3fd87)
+
+- 🥭 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d)
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [Tagged Pointer](http://blog.dreamfever.me/posts/2023-12-16-tagged-pointer/) 
 
-- ✨ [为 Zig 项目构建在线文档](http://blog.dreamfever.me/posts/2023-12-05-generate-docs-in-zig-project/) 
+- 🎁 [Tagged Pointer](http://blog.dreamfever.me/posts/2023-12-16-tagged-pointer/)
+
+- ✨ [为 Zig 项目构建在线文档](http://blog.dreamfever.me/posts/2023-12-05-generate-docs-in-zig-project/)
 <!-- BLOG-POST-LIST-ZH:END -->
