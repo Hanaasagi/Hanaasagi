@@ -92,12 +92,11 @@ C            1 hr 45 mins    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Japanese:
 
 <!-- BLOG-POST-LIST-JP:START -->
+- 🥝 [Zig: docの生成とGitHub Pagesへのデプロイ](https://zenn.dev/hanaasagi/articles/13e82e6bf56d54) 
 
-- 🥝 [Zig: docの生成とGitHub Pagesへのデプロイ](https://zenn.dev/hanaasagi/articles/13e82e6bf56d54)
+- 🍓 [Zig HashMap: カスタムハッシュ関数の利用](https://zenn.dev/hanaasagi/articles/ab16bbc7e3fd87) 
 
-- 🍓 [Zig HashMap: カスタムハッシュ関数の利用](https://zenn.dev/hanaasagi/articles/ab16bbc7e3fd87)
-
-- 🥭 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d)
+- 🥭 [Zig プロジェクトにコンパイル時情報を追加する方法](https://zenn.dev/hanaasagi/articles/e88ccf87c2094d) 
 <!-- BLOG-POST-LIST-JP:END -->
 
 Chinese:
