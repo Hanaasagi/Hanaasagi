@@ -90,9 +90,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [Tagged Pointer](http://blog.dreamfever.me/posts/2023-12-16-tagged-pointer/) 
+- 🎁 [Address Resolution Protocol](http://blog.dreamfever.me/linux-network/arp/) 
 
-- ✨ [为 Zig 项目构建在线文档](http://blog.dreamfever.me/posts/2023-12-05-generate-docs-in-zig-project/) 
+- ✨ [Tagged Pointer](http://blog.dreamfever.me/posts/2023-12-16-tagged-pointer/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
