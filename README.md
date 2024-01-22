@@ -89,10 +89,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
+- 🎁 [Address Resolution Protocol](http://blog.dreamfever.me/linux-network/arp/) 
 
-- 🎁 [Address Resolution Protocol](http://blog.dreamfever.me/linux-network/arp/)
-
-- ✨ [Tagged Pointer](http://blog.dreamfever.me/posts/2023-12-16-tagged-pointer/)
+- ✨ [Tagged Pointer](http://blog.dreamfever.me/posts/2023-12-16-tagged-pointer/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
