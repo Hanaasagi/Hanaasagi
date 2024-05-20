@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [Address Resolution Protocol](http://blog.dreamfever.me/linux-network/arp/) 
+- 🎁 [通过 FFmpeg 实现关键帧动画的一些尝试](http://blog.dreamfever.me/posts/2024-05-19-ffmpeg-keyframe-animation/) 
 
-- ✨ [Tagged Pointer](http://blog.dreamfever.me/posts/2023-12-16-tagged-pointer/) 
+- ✨ [Address Resolution Protocol](http://blog.dreamfever.me/linux-network/arp/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
