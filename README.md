@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [危险的 Django update_or_create](http://blog.dreamfever.me/posts/2024-05-26-django-update-or-create/) 
+- 🎁 [整理一些 Git 的实用配置/技巧](http://blog.dreamfever.me/posts/2024-06-02-the-little-known-tricks-of-git/) 
 
-- ✨ [通过 FFmpeg 实现关键帧动画的一些尝试](http://blog.dreamfever.me/posts/2024-05-19-ffmpeg-keyframe-animation/) 
+- ✨ [危险的 Django update_or_create](http://blog.dreamfever.me/posts/2024-05-26-django-update-or-create/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
