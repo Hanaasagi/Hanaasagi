@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [整理一些 Git 的实用配置/技巧](http://blog.dreamfever.me/posts/2024-06-02-the-little-known-tricks-of-git/) 
+- 🎁 [解决 Linux 下 Firefox 分辨率异常问题](http://blog.dreamfever.me/posts/2024-06-08-firefox-incorrect-resolution/) 
 
-- ✨ [危险的 Django update_or_create](http://blog.dreamfever.me/posts/2024-05-26-django-update-or-create/) 
+- ✨ [整理一些 Git 的实用配置/技巧](http://blog.dreamfever.me/posts/2024-06-02-the-little-known-tricks-of-git/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
