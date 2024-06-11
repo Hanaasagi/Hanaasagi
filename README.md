@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [解决 Linux 下 Firefox 分辨率异常问题](http://blog.dreamfever.me/posts/2024-06-08-firefox-incorrect-resolution/) 
+- 🎁 [排查 FFmpeg 请求过多的问题](http://blog.dreamfever.me/posts/2024-06-09-poor-performance-of-ffmpeg-i-url/) 
 
-- ✨ [整理一些 Git 的实用配置/技巧](http://blog.dreamfever.me/posts/2024-06-02-the-little-known-tricks-of-git/) 
+- ✨ [解决 Linux 下 Firefox 分辨率异常问题](http://blog.dreamfever.me/posts/2024-06-08-firefox-incorrect-resolution/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
