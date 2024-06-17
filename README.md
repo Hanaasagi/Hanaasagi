@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [排查 FFmpeg 请求过多的问题](http://blog.dreamfever.me/posts/2024-06-09-poor-performance-of-ffmpeg-i-url/) 
+- 🎁 [FFmpeg 抽帧指南](http://blog.dreamfever.me/posts/2024-06-16-ffmpeg-extract-frames/) 
 
-- ✨ [解决 Linux 下 Firefox 分辨率异常问题](http://blog.dreamfever.me/posts/2024-06-08-firefox-incorrect-resolution/) 
+- ✨ [排查 FFmpeg 请求过多的问题](http://blog.dreamfever.me/posts/2024-06-09-poor-performance-of-ffmpeg-i-url/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
