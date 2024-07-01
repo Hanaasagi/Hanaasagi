@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [FFmpeg 视频水印实战](http://blog.dreamfever.me/posts/2024-06-22-ffmpeg-watermark/) 
+- 🎁 [FFmpeg 封装字幕](http://blog.dreamfever.me/posts/2024-06-30-ffmpeg-subtitle/) 
 
-- ✨ [FFmpeg 抽帧指南](http://blog.dreamfever.me/posts/2024-06-16-ffmpeg-extract-frames/) 
+- ✨ [FFmpeg 视频水印实战](http://blog.dreamfever.me/posts/2024-06-22-ffmpeg-watermark/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
