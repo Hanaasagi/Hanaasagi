@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [FFmpeg 封装字幕](http://blog.dreamfever.me/posts/2024-06-30-ffmpeg-subtitle/) 
+- 🎁 [WEB 端视频时间轴预览图的实现思路](http://blog.dreamfever.me/posts/2024-07-07-ffmpeg-sprite-sheet/) 
 
-- ✨ [FFmpeg 视频水印实战](http://blog.dreamfever.me/posts/2024-06-22-ffmpeg-watermark/) 
+- ✨ [FFmpeg 封装字幕](http://blog.dreamfever.me/posts/2024-06-30-ffmpeg-subtitle/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
