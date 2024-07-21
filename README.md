@@ -4,7 +4,7 @@
 
 <!-- <h3 align='center'> この壁の中に未来はねえんだよ… </h3> -->
 
-<h1 align='center'> I am seeking a job without overtime  (Shanghai/Remote) </h1>
+<h1 align='center'> Available for hire. </h1>
 
 ### About me
 
@@ -101,6 +101,8 @@ Text     7 mins          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://github.com/user-attachments/assets/305b1fcc-638c-4fe8-9667-e01accb749f4)
 
 ```math
 \ce{
