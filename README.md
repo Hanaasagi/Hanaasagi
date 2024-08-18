@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [实现 Brainfuck 解释器](http://blog.dreamfever.me/posts/2024-08-11-brainfuck-c-interpreter/) 
+- 🎁 [实现 Brainfuck Transpiler](http://blog.dreamfever.me/posts/2024-08-17-brainfuck-py-transpiler/) 
 
-- ✨ [不同 Memory Allocator 对于 Python 的影响](http://blog.dreamfever.me/posts/2024-07-14-python-memory-allocators-perf/) 
+- ✨ [实现 Brainfuck 解释器](http://blog.dreamfever.me/posts/2024-08-11-brainfuck-c-interpreter/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
