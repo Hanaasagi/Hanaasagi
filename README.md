@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [实现 Brainfuck Transpiler](http://blog.dreamfever.me/posts/2024-08-17-brainfuck-py-transpiler/) 
+- 🎁 [实现 Brainfuck x64 Compiler](http://blog.dreamfever.me/posts/2024-09-01-brainfuck-x64-compiler/) 
 
-- ✨ [实现 Brainfuck 解释器](http://blog.dreamfever.me/posts/2024-08-11-brainfuck-c-interpreter/) 
+- ✨ [实现 Brainfuck Transpiler](http://blog.dreamfever.me/posts/2024-08-17-brainfuck-py-transpiler/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
