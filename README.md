@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [HTTP Status Code 499](http://blog.dreamfever.me/posts/2024-09-12-http-status-code-499/) 
+- 🎁 [HTTP Status Code 499](https://blog.dreamfever.me/posts/2024-09-12-http-status-code-499/) 
 
-- ✨ [实现 Brainfuck x64 Compiler](http://blog.dreamfever.me/posts/2024-09-01-brainfuck-x64-compiler/) 
+- ✨ [实现 Brainfuck x64 Compiler](https://blog.dreamfever.me/posts/2024-09-01-brainfuck-x64-compiler/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
