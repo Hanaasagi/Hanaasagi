@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [HTTP Status Code 499](https://blog.dreamfever.me/posts/2024-09-12-http-status-code-499/) 
+- 🎁 [Python socket.setdefaulttimeout](https://blog.dreamfever.me/posts/2024-09-29-python-socket-setdefaulttimeout/) 
 
-- ✨ [实现 Brainfuck x64 Compiler](https://blog.dreamfever.me/posts/2024-09-01-brainfuck-x64-compiler/) 
+- ✨ [HTTP Status Code 499](https://blog.dreamfever.me/posts/2024-09-12-http-status-code-499/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
