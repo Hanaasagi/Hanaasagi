@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [Python socket.setdefaulttimeout](https://blog.dreamfever.me/posts/2024-09-29-python-socket-setdefaulttimeout/) 
+- 🎁 [没有 curl 的情况下发送 HTTP 请求](https://blog.dreamfever.me/posts/2024-10-02-send-http-requests-without-curl/) 
 
-- ✨ [HTTP Status Code 499](https://blog.dreamfever.me/posts/2024-09-12-http-status-code-499/) 
+- ✨ [Python socket.setdefaulttimeout](https://blog.dreamfever.me/posts/2024-09-29-python-socket-setdefaulttimeout/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
