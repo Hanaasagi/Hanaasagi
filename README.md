@@ -87,9 +87,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [没有 curl 的情况下发送 HTTP 请求](https://blog.dreamfever.me/posts/2024-10-02-send-http-requests-without-curl/) 
+- 🎁 [Spice 源码剖析](https://blog.dreamfever.me/posts/2024-10-19-heartbeat-scheduling-zig-spice/) 
 
-- ✨ [Python socket.setdefaulttimeout](https://blog.dreamfever.me/posts/2024-09-29-python-socket-setdefaulttimeout/) 
+- ✨ [没有 curl 的情况下发送 HTTP 请求](https://blog.dreamfever.me/posts/2024-10-02-send-http-requests-without-curl/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
