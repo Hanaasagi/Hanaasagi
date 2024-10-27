@@ -22,12 +22,12 @@
 
 <br>
 
-### 『Contributed to』
 
 <!--START_SECTION:lapras-card-->
 <a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img align="right" src="https://lapras-card-generator.vercel.app/api/svg?e=4.07&b=2.85&i=3.01&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
 <!--END_SECTION:lapras-card-->
 
+<!--
 <div align="left">
 
 | REPO                                              | FIRSTDATE                                                    | LASTEDATE                                                    | PRCOUNT                                                                      |
@@ -45,10 +45,17 @@
 | [pyflakes](https://github.com/PyCQA/pyflakes)     | [2018-12-31](https://github.com/PyCQA/pyflakes/pull/396)     | [2019-09-04](https://github.com/PyCQA/pyflakes/pull/467)     | [3](https://github.com/PyCQA/pyflakes/pulls?q=is%3Apr+author%3AHanaasagi)    |
 
 </div>
+-->
 
 <!-- ![](https://github.com/Hanaasagi/Hanaasagi/blob/3ee2fac7685d9f15c1f13f28573c12ebceae21c2/images/review-please.jpg) -->
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Hanaasagi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+<div align="left">
+
+<img  src="https://github.com/user-attachments/assets/305b1fcc-638c-4fe8-9667-e01accb749f4" width="50%" ></a>
+</div>
+
 
 ### Tech Skills
 
@@ -69,6 +76,9 @@
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
 
 ### Blog posts
 
@@ -104,7 +114,6 @@ INI        4 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-![](https://github.com/user-attachments/assets/305b1fcc-638c-4fe8-9667-e01accb749f4)
 
 ```math
 \ce{
