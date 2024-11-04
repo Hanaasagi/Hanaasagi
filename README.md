@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [Spice 源码剖析](https://blog.dreamfever.me/posts/2024-10-19-heartbeat-scheduling-zig-spice/) 
+- 🎁 [libxev 源码阅读 - MPSC Queue](https://blog.dreamfever.me/posts/2024-11-03-libxev-mpsc-vyukov-queue/) 
 
-- ✨ [没有 curl 的情况下发送 HTTP 请求](https://blog.dreamfever.me/posts/2024-10-02-send-http-requests-without-curl/) 
+- ✨ [Firefox 恢复 Profile 数据](https://blog.dreamfever.me/posts/2024-10-20-firefox-nightly-lose-data/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
