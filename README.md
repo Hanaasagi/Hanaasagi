@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [libxev 源码阅读 - MPSC Queue](https://blog.dreamfever.me/posts/2024-11-03-libxev-mpsc-vyukov-queue/) 
+- 🎁 [2FA and OTP](https://blog.dreamfever.me/posts/2024-11-10-system-design-otp-service/) 
 
-- ✨ [Firefox 恢复 Profile 数据](https://blog.dreamfever.me/posts/2024-10-20-firefox-nightly-lose-data/) 
+- ✨ [libxev 源码阅读 - MPSC Queue](https://blog.dreamfever.me/posts/2024-11-03-libxev-mpsc-vyukov-queue/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
