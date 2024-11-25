@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [2FA and OTP](https://blog.dreamfever.me/posts/2024-11-10-system-design-otp-service/) 
+- 🎁 [如何快速寻找第一个非 ASCII 字符位置](https://blog.dreamfever.me/posts/2024-11-24-find-first-non-ascii-fastly/) 
 
-- ✨ [libxev 源码阅读 - MPSC Queue](https://blog.dreamfever.me/posts/2024-11-03-libxev-mpsc-vyukov-queue/) 
+- ✨ [2FA and OTP](https://blog.dreamfever.me/posts/2024-11-10-system-design-otp-service/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
