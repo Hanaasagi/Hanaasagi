@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [字符串 toLower 的一种优化](https://blog.dreamfever.me/posts/2024-12-01-efficient-tolower-with-bitwise-optimization/) 
+- 🎁 [Redis 中的 KEYS 命令](https://blog.dreamfever.me/posts/2024-12-15-redis-keys-command/) 
 
-- ✨ [如何快速寻找第一个非 ASCII 字符位置](https://blog.dreamfever.me/posts/2024-11-24-find-first-non-ascii-fastly/) 
+- ✨ [字符串 toLower 的一种优化](https://blog.dreamfever.me/posts/2024-12-01-efficient-tolower-with-bitwise-optimization/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
