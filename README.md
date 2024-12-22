@@ -4,7 +4,7 @@
 
 <!-- <h3 align='center'> この壁の中に未来はねえんだよ… </h3> -->
 
-<h1 align='center'> Available for hire. </h1>
+<!-- <h1 align='center'> Available for hire. </h1> -->
 
 ### About me
 
