@@ -24,7 +24,7 @@
 
 
 <!--START_SECTION:lapras-card-->
-<a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img align="right" src="https://lapras-card-generator.vercel.app/api/svg?e=4.07&b=2.85&i=3.01&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
+<a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img align="right" src="https://lapras-card-generator.vercel.app/api/svg?e=4.06&b=2.85&i=3.01&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
 <!--END_SECTION:lapras-card-->
 
 <!--
