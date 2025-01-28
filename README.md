@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [2003, can&#39;t connect to MYSQL server on ... &lpar;99&rpar;](https://blog.dreamfever.me/posts/2025-01-12-can-not-connect-to-mysql/) 
+- 🎁 [LLVM API](https://blog.dreamfever.me/compiler/llvm-api/) 
 
-- ✨ [MySQL 中 ORDER BY 导致的索引选择问题](https://blog.dreamfever.me/posts/2025-01-05-mysql-created-at-index/) 
+- ✨ [2003, can&#39;t connect to MYSQL server on ... &lpar;99&rpar;](https://blog.dreamfever.me/posts/2025-01-12-can-not-connect-to-mysql/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
