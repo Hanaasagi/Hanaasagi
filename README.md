@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [LLVM API](https://blog.dreamfever.me/compiler/llvm-api/) 
+- 🎁 [阅读: Do not use secrets in environment variables and here&#39;s how to do it better](https://blog.dreamfever.me/posts/2025-02-04-do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better/) 
 
-- ✨ [2003, can&#39;t connect to MYSQL server on ... &lpar;99&rpar;](https://blog.dreamfever.me/posts/2025-01-12-can-not-connect-to-mysql/) 
+- ✨ [LLVM API](https://blog.dreamfever.me/compiler/llvm-api/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
