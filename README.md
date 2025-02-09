@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [阅读: Do not use secrets in environment variables and here&#39;s how to do it better](https://blog.dreamfever.me/posts/2025-02-04-do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better/) 
+- 🎁 [字符串布局优化](https://blog.dreamfever.me/posts/2025-02-08-learn-string-layout-optimization/) 
 
-- ✨ [LLVM API](https://blog.dreamfever.me/compiler/llvm-api/) 
+- ✨ [阅读: Do not use secrets in environment variables and here&#39;s how to do it better](https://blog.dreamfever.me/posts/2025-02-04-do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
