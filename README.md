@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [PEG 语法](https://blog.dreamfever.me/compiler/peg-grammar/) 
+- 🎁 [Linux 下查找应用的 icon](https://blog.dreamfever.me/posts/2025-05-17-linux-desktop-application-icons/) 
 
-- ✨ [字符串布局优化](https://blog.dreamfever.me/posts/2025-02-08-learn-string-layout-optimization/) 
+- ✨ [PEG 语法](https://blog.dreamfever.me/compiler/peg-grammar/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
