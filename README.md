@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [Linux 下查找应用的 icon](https://blog.dreamfever.me/posts/2025-05-17-linux-desktop-application-icons/) 
+- 🎁 [LeetCode Weekly Contest 450](https://blog.dreamfever.me/posts/2025-05-18-leetcode-weekly-contest-450/) 
 
-- ✨ [PEG 语法](https://blog.dreamfever.me/compiler/peg-grammar/) 
+- ✨ [Linux 下查找应用的 icon](https://blog.dreamfever.me/posts/2025-05-17-linux-desktop-application-icons/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
