@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [LeetCode Weekly Contest 450](https://blog.dreamfever.me/posts/2025-05-18-leetcode-weekly-contest-450/) 
+- 🎁 [为博客增加 llms.txt](https://blog.dreamfever.me/posts/2025-05-28-adding-llmstxt-to-hugo/) 
 
-- ✨ [Linux 下查找应用的 icon](https://blog.dreamfever.me/posts/2025-05-17-linux-desktop-application-icons/) 
+- ✨ [LeetCode Weekly Contest 450](https://blog.dreamfever.me/posts/2025-05-18-leetcode-weekly-contest-450/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
