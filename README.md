@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [为博客增加 llms.txt](https://blog.dreamfever.me/posts/2025-05-28-adding-llmstxt-to-hugo/) 
+- 🎁 [X11 获取并切换窗口](https://blog.dreamfever.me/posts/2025-06-08-x11-list-window/) 
 
-- ✨ [LeetCode Weekly Contest 450](https://blog.dreamfever.me/posts/2025-05-18-leetcode-weekly-contest-450/) 
+- ✨ [为博客增加 llms.txt](https://blog.dreamfever.me/posts/2025-05-28-adding-llmstxt-to-hugo/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
