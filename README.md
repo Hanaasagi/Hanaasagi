@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [X11 获取并切换窗口](https://blog.dreamfever.me/posts/2025-06-08-x11-list-window/) 
+- 🎁 [如何写一个 Terminal Text Picker](https://blog.dreamfever.me/posts/2025-06-28-magonote-a-new-terminal-text-picker/) 
 
-- ✨ [为博客增加 llms.txt](https://blog.dreamfever.me/posts/2025-05-28-adding-llmstxt-to-hugo/) 
+- ✨ [X11 获取并切换窗口](https://blog.dreamfever.me/posts/2025-06-08-x11-list-window/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
