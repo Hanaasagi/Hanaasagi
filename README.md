@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [如何写一个 Terminal Text Picker](https://blog.dreamfever.me/posts/2025-06-28-magonote-a-new-terminal-text-picker/) 
+- 🎁 [LeetCode Weekly Contest 456](https://blog.dreamfever.me/posts/2025-07-06-weekly-contest-456/) 
 
-- ✨ [X11 获取并切换窗口](https://blog.dreamfever.me/posts/2025-06-08-x11-list-window/) 
+- ✨ [如何写一个 Terminal Text Picker](https://blog.dreamfever.me/posts/2025-06-28-magonote-a-new-terminal-text-picker/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
