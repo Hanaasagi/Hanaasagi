@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [LeetCode Weekly Contest 456](https://blog.dreamfever.me/posts/2025-07-06-weekly-contest-456/) 
+- 🎁 [shlex 实现笔记](https://blog.dreamfever.me/posts/2025-08-02-shlex-parser/) 
 
-- ✨ [如何写一个 Terminal Text Picker](https://blog.dreamfever.me/posts/2025-06-28-magonote-a-new-terminal-text-picker/) 
+- ✨ [LeetCode Weekly Contest 456](https://blog.dreamfever.me/posts/2025-07-06-weekly-contest-456/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
