@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [shlex 实现笔记](https://blog.dreamfever.me/posts/2025-08-02-shlex-parser/) 
+- 🎁 [Decode UTF-8](https://blog.dreamfever.me/posts/2025-08-19-utf8-dfa/) 
 
-- ✨ [LeetCode Weekly Contest 456](https://blog.dreamfever.me/posts/2025-07-06-weekly-contest-456/) 
+- ✨ [shlex 实现笔记](https://blog.dreamfever.me/posts/2025-08-02-shlex-parser/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
