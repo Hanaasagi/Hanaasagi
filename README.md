@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [游戏开发记录](https://blog.dreamfever.me/posts/2025-10-12-my-first-game/) 
+- 🎁 [Nvim 升级后插件进程树的变化](https://blog.dreamfever.me/posts/2025-10-19-nvim-copy-paste/) 
 
-- ✨ [Decode UTF-8](https://blog.dreamfever.me/posts/2025-08-19-utf8-dfa/) 
+- ✨ [游戏开发记录](https://blog.dreamfever.me/posts/2025-10-12-my-first-game/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
