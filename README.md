@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [Nvim 升级后插件进程树的变化](https://blog.dreamfever.me/posts/2025-10-19-nvim-copy-paste/) 
+- 🎁 [阅读: SRE deep dive into Linux Page Cache](https://blog.dreamfever.me/posts/2025-11-01-linux-page-cache/) 
 
-- ✨ [游戏开发记录](https://blog.dreamfever.me/posts/2025-10-12-my-first-game/) 
+- ✨ [Nvim 升级后插件进程树的变化](https://blog.dreamfever.me/posts/2025-10-19-nvim-copy-paste/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
