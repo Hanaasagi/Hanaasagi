@@ -97,9 +97,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [阅读: SRE deep dive into Linux Page Cache](https://blog.dreamfever.me/posts/2025-11-01-linux-page-cache/) 
+- 🎁 [RFC 6902 JSON Patch](https://blog.dreamfever.me/posts/2025-11-20-json-patch/) 
 
-- ✨ [Nvim 升级后插件进程树的变化](https://blog.dreamfever.me/posts/2025-10-19-nvim-copy-paste/) 
+- ✨ [阅读: SRE deep dive into Linux Page Cache](https://blog.dreamfever.me/posts/2025-11-01-linux-page-cache/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
