@@ -8,7 +8,8 @@
 
 ### About me
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&show_icons=true&theme=dracula">
+<!-- <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hanaasagi&show_icons=true&theme=dracula"> -->
+<img align="right" width="45%" src="https://github.com/user-attachments/assets/305b1fcc-638c-4fe8-9667-e01accb749f4" width="50%" ></a>
 
 - :newspaper_roll: Python / Rust / TypeScript / Go / Lua / Zig ...
 - :computer: ~~MacOS~~ / ~~Debian~~ / Arch Linux
@@ -51,10 +52,10 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Hanaasagi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-<div align="left">
+<!-- <div align="left"> -->
 
-<img  src="https://github.com/user-attachments/assets/305b1fcc-638c-4fe8-9667-e01accb749f4" width="50%" ></a>
-</div>
+<!-- <img  src="https://github.com/user-attachments/assets/305b1fcc-638c-4fe8-9667-e01accb749f4" width="50%" ></a> -->
+<!-- </div> -->
 
 
 ### Tech Skills
@@ -77,8 +78,9 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
+<br>
+<br>
+<br>
 
 ### Blog posts
 
