@@ -99,9 +99,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [Heisenbug](https://blog.dreamfever.me/posts/2025-11-29-heisenbug/) 
+- 🎁 [阅读 Zero Downtime Release](https://blog.dreamfever.me/posts/2025-12-15-zero-downtime-release/) 
 
-- ✨ [RFC 6902 JSON Patch](https://blog.dreamfever.me/posts/2025-11-20-json-patch/) 
+- ✨ [Heisenbug](https://blog.dreamfever.me/posts/2025-11-29-heisenbug/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
