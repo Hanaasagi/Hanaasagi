@@ -25,7 +25,9 @@
 
 
 <!--START_SECTION:lapras-card-->
+<!--
 <a align="right" href="https://lapras.com/public/3KR7WDA" target="_blank" rel="noopener noreferrer"><img align="right" src="https://lapras-card-generator.vercel.app/api/svg?e=3.68&b=2.85&i=3.02&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a>
+-->
 <!--END_SECTION:lapras-card-->
 
 <!--
@@ -78,9 +80,6 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-<br>
-<br>
 
 ### Blog posts
 
