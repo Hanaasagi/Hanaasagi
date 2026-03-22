@@ -98,9 +98,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [LightRAG 源码阅读 - Indexing](https://blog.dreamfever.me/posts/2026-03-15-lightrag-indexing/) 
+- 🎁 [LightRAG 源码阅读 - Query](https://blog.dreamfever.me/posts/2026-03-21-lightrag-query/) 
 
-- ✨ [30 岁 - 总集篇](https://blog.dreamfever.me/posts/2026-01-19-30-years-old/) 
+- ✨ [LightRAG 源码阅读 - Indexing](https://blog.dreamfever.me/posts/2026-03-15-lightrag-indexing/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
