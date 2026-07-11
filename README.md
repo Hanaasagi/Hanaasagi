@@ -106,8 +106,7 @@ Chinese:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   15 mins               🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨   97.33 %
-TOML       0 secs                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
