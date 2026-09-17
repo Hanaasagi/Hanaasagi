@@ -98,9 +98,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [LightRAG 源码阅读 - Query](https://blog.dreamfever.me/posts/2026-03-21-lightrag-query/) 
+- 🎁 [soffice 转换 PPT 遇到的几个问题](https://blog.dreamfever.me/posts/2026-09-16-soffice-convert-pptx/) 
 
-- ✨ [LightRAG 源码阅读 - Indexing](https://blog.dreamfever.me/posts/2026-03-15-lightrag-indexing/) 
+- ✨ [LightRAG 源码阅读 - Query](https://blog.dreamfever.me/posts/2026-03-21-lightrag-query/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
