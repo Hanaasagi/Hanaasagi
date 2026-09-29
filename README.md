@@ -98,9 +98,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [soffice 转换 PPT 遇到的几个问题](https://blog.dreamfever.me/posts/2026-09-16-soffice-convert-pptx/) 
+- 🎁 [为什么 curl 127.1 会请求 127.0.0.1](https://blog.dreamfever.me/posts/2026-09-27-curl-127-1/) 
 
-- ✨ [LightRAG 源码阅读 - Query](https://blog.dreamfever.me/posts/2026-03-21-lightrag-query/) 
+- ✨ [soffice 转换 PPT 遇到的几个问题](https://blog.dreamfever.me/posts/2026-09-16-soffice-convert-pptx/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
