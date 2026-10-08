@@ -98,9 +98,9 @@ Japanese:
 Chinese:
 
 <!-- BLOG-POST-LIST-ZH:START -->
-- 🎁 [为什么 curl 127.1 会请求 127.0.0.1](https://blog.dreamfever.me/posts/2026-09-27-curl-127-1/) 
+- 🎁 [tgrep 源码阅读：trigram 索引](https://blog.dreamfever.me/posts/2026-10-06-trigram-indexed-search/) 
 
-- ✨ [soffice 转换 PPT 遇到的几个问题](https://blog.dreamfever.me/posts/2026-09-16-soffice-convert-pptx/) 
+- ✨ [为什么 curl 127.1 会请求 127.0.0.1](https://blog.dreamfever.me/posts/2026-09-27-curl-127-1/) 
 <!-- BLOG-POST-LIST-ZH:END -->
 
 <!--START_SECTION:waka-->
